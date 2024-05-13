@@ -1,9 +1,6 @@
 ### Hi, I'm Borislav 👋
 
-<!--
-**borislavpachev/borislavpachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🚀I am Recent Telerik Academy Graduate, passionate about crafting Scalable Web Applications, Problem Solver with a Keen Eye for Detail. I am focused on continuous learning and staying ahead in the tech world. Dedicated to mastering new technologies and constantly upgrading my skillset to tackle evolving challenges.
+🚀 I am Recent Telerik Academy Graduate, passionate about crafting Scalable Web Applications, Problem Solver with a Keen Eye for Detail. I am focused on continuous learning and staying ahead in the tech world. Dedicated to mastering new technologies and constantly upgrading my skillset to tackle evolving challenges.
 
 Here are some ideas to get you started:
 
