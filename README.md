@@ -4,7 +4,7 @@ I am Recent Telerik Academy Graduate, passionate about crafting Scalable Web App
 
 - 🕛 I enjoy spending my time coding, reading books and going on mountain trails
 - 🔭 I’m currently working on learning new tehnologies and small WEB Project
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning TypeScript
 
 - 📫 How to reach me: borislav.pachev@gmail.com
 
