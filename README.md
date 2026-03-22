@@ -2,7 +2,7 @@
 
 I am Recent Telerik Academy Graduate, passionate about crafting Scalable Web Applications, Problem Solver with a Keen Eye for Detail. I am focused on continuous learning and staying ahead in the tech world. Dedicated to mastering new technologies and constantly upgrading my skillset to tackle evolving challenges.
 
-- [Portfolio](https://www.borislavpachev.com)
+- [Portfolio](https://portfolio-smoky-ten-14.vercel.app/)
 - 🕛 I enjoy spending my time coding, reading books and going on mountain trails
 - 🔭 I’m currently working on learning new tehnologies and small WEB Project
 
